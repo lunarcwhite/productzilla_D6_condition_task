@@ -1,3 +1,4 @@
+//tugas
 let cuaca = 'cerah'
 let sepatuHitam = true
 let sepatuPutih = true
